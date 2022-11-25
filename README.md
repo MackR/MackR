@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MackR
-- 📚 I a mechanical engineering graduate, with skills in electronics, programming, and sales.  I'm multifacetted, but I specialize in programming.
+- 📚 I'm a mechanical engineering graduate, with skills in electronics, programming, and sales.  I'm multifacetted, but I specialize in programming.
 - 🦾 I recently finished work at a humanoid robotics startup company where I deployed robots throughout the USA, testing and troubleshooting.
 - 👀 I've shifted to computer vision within C++ and Python and you can track all my work through github
 - 🌱 I’m currently learning OpenCV and you can view my progress within the __ file 
