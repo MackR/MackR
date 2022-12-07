@@ -1,6 +1,6 @@
 Hi, I’m Mack Ragland, thanks for taking the time to get to know me better. 
 
-- 📚 I started off as a mechanical engineering graduate, but realized my passion was in programming and electronics, and after graduating, I joined an automation and controls company troubleshooting electronics, coordinating with clients, and programming PLCs.
+- 📚 I started off as a mechanical engineering graduate, but realized my passion was in programming and electronics, and after graduating, I joined an automation and controls company, troubleshooting electronics, coordinating with clients, and programming PLCs.
 
 - 🦾 Automation and controls companies couldn't satisfy my desire for intellectual creativity and engineering achievement, and so I joined a humanoid robotics startup where I deployed robots throughout the USA, testing and troubleshooting our product while being a company representative. I worked with ROS2, Linux command line, Bash, wifi, and network analysis.
 
@@ -11,13 +11,13 @@ Unfortunately, despite doing excellent work, the startup hit some roadblocks, an
 - 🌱 In that time I've built a chess computer player that is ranked 1500 and can beat 50% of chess players, analyzing 300,000 positions a second. 
   -  Chess engine development logs found here: https://github.com/MackR/ChessEngine/blob/main/src/ProgressLogAndNotes.txt
 - 🌱 I also taught myself computer vision (OpenCV) with 170hrs of practice
-  - Daily notes found here: https://github.com/MackR/LearningCV/blob/master/OpenCV_Lessons.txt
+  - Daily OpenCV notes found here: https://github.com/MackR/LearningCV/blob/master/OpenCV_Lessons.txt
 
 - 🎯 Next targets include PCL, Pytorch, and Docker along with polishing skills in ROS and Bash.
 
 - ✔️ You'll find that I'm extremely well organized, sociable, and easy to work with on projects with little supervision. 
 
-- I've been promoted twice within two different companies to lead teams of programmers. I'm someone that my managers have not only trusted with independence, but have also trusted to lead others to success.
+- I've been promoted twice within two different companies to lead teams of programmers. My managers have not only trusted me with independence, but have also trusted me to lead others to success. Within your organization, you will find I'm perfectly suited to scale to greater roles and responsibilities as your team develops. 
 
 - 📫 Now that I've achieved my 4 month personal development goals, I'm looking to join an innovative company where I can employ my discipline, intellectual skills, and creative talents to create amazing new innovations. My 4-5 year goal is to be a senior software engineer.
 
