@@ -8,10 +8,10 @@ Unfortunately, the startup hit some funding roadblocks, and since I was the most
 
 - 👀 After regrouping, I took this opportunity to further my programming abilities. So I built a plan to prepare myself for a life within robotics and programming using Python and C++. I've logged all my work the past 4 months here and have currently completed 350hrs of additional practice in C++ since leaving my job 4 months ago. 
 
-- 🌱 In that time I've built a chess computer player that is ranked 1200 and can beat 30% of chess players, analyzing 43,000 positions a second. 
-  -  Chess engine development logs found here: https://github.com/MackR/ChessEngine/blob/main/src/ProgressLogAndNotes.txt
+- 🌱 In that time I've built a chess computer player, analyzing 43,000 positions a second. 
+  -  Chess engine development logs found here in "main" branch: https://github.com/MackR/ChessEngine/blob/main/src/ProgressLogAndNotes.txt
 - 🌱 I also taught myself computer vision (OpenCV) with 170hrs of practice
-  - Daily OpenCV notes found here: https://github.com/MackR/LearningCV/blob/master/OpenCV_Lessons.txt
+  - Daily OpenCV notes found here in "master" branch: https://github.com/MackR/LearningCV/blob/master/OpenCV_Lessons.txt
 
 - 🎯 Next targets include PCL, Pytorch, and Docker along with polishing skills in ROS and Bash.
 
