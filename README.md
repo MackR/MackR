@@ -2,7 +2,7 @@ Hi, I’m Mack Ragland, thanks for taking the time to get to know me better.
 
 - 📚 I'm a mechanical engineering graduate, but my focus is in programming and electronics. After graduating, I joined an automation and controls company, programming PLCs, troubleshooting electronics, and coordinating with clients.
 
-- 🦾 I was successful within automation and controls companies but as someone who grew up solving creative personal engineering projects, I knew I had untapped potential, and so I joined a humanoid robotics startup where I deployed robots throughout the USA, testing and troubleshooting our product while being a company representative. I worked with ROS2, Linux command line, Bash, wifi, and network analysis.
+- 🦾 I was successful programming PLCs within automation and controls companies, leading teams and helping design industrial algorithms, but I knew I had untapped potential, and wanted to join a more challenging and creative role, and so I joined a robotics startup. There, I deployed humanoid robots throughout the USA, tested and troubleshooted our product while being a company representative. I worked with ROS2, Linux command line, Bash, Wifi, and network analysis.
 
 - Unfortunately, the startup hit some funding roadblocks, and since I was the most recent employee hired, I was laid off.
 
