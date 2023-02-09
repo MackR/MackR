@@ -12,6 +12,7 @@ Hi, I’m Mack Ragland, thanks for taking the time to get to know me better.
   -  Chess engine development logs found here in "main" branch: https://github.com/MackR/ChessEngine/blob/main/src/ProgressLogAndNotes.txt
 - 🌱 I also taught myself computer vision (OpenCV) with 170hrs of practice
   - Daily OpenCV notes found here in "master" branch: https://github.com/MackR/LearningCV/blob/master/OpenCV_Lessons.txt
+- For examples of real time algorithm development, see: https://github.com/MackR/Ball-Balancing-Robot
 
 - ✔️ You'll find that I'm extremely well organized, sociable, and easy to work with on projects with little supervision. 
 
