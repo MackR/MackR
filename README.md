@@ -6,7 +6,7 @@ Hi, I’m Mack Ragland, thanks for taking the time to get to know me better.
 
 - Unfortunately, the startup hit some funding roadblocks, and since I was the most recent employee hired, I was laid off.
 
-- 👀 After regrouping, I took this opportunity to further my programming abilities. So, while I was already performing PLC programming and robotics software troubleshooting, I needed to take the next step in my abilities in order to program full time.  I built a plan to prepare myself for an immersive life of programming using Python and C++, and have spent 8 hours a day developing these skills for the past 4 months. 
+- 👀 After regrouping, I took this opportunity to further my programming abilities. So, while I was already performing PLC programming and robotics software troubleshooting, I needed to take the next step in my abilities in order to program full time within C++.  I built a plan to prepare myself for an immersive life of programming using Python and C++, and have spent 8 hours a day developing these skills for the past 4 months. 
 
 - 🌱 In that time I've built a chess computer player, analyzing 43,000 positions a second. 
   -  Chess engine development logs found here in "main" branch: https://github.com/MackR/ChessEngine/blob/main/src/ProgressLogAndNotes.txt
